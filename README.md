@@ -1,2 +1,1 @@
-# ravensystem-media
-Media files for Wikis
+Media files for Wiki
